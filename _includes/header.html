@@ -4,7 +4,11 @@
       <li class='name'>
         <h1>
           <a href='index.html'>
-            <strong>D</strong>rava
+            {% if site.logoImagePath %}
+            <image src="{{site.logoImagePath}}">
+            {% else %}
+            {{ site.title }}
+            {% endif %}
           </a>
         </h1>
       </li>
