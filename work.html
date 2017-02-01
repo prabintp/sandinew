@@ -1,0 +1,27 @@
+---
+layout: default
+section_id: work
+---
+
+<!-- THIS FILE IS JUST A DESIGN TEMPLATE, THE POSTS DATA ARE NOT DYNAMIC -->
+
+<div class='full' style='background: #f5f5f5'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <div class='masonry-container'>
+        {% for work in site.data.works %}
+           <div class='masonry mod modBlogPost popin'>
+            {% if work.images %}
+            <div class='images'>
+              {% for item in work.images %}
+                <div class='image'><a href="single.html"><img alt="" src="{{item.imageurl}}" /></a></div>
+              {% endfor %}
+            </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>

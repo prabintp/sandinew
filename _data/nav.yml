@@ -15,6 +15,9 @@
       path: portfolio.html
     - name: Portfolio item
       path: portfolio-item.html
+- name: Works
+  path: work.html
+  section_id: work
 - name: Contact
   path: contact.html
   section_id: contact
