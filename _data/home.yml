@@ -1,60 +1,52 @@
 - image: images/origin/home500_1.png
-  class: graphic-design
+  class: graph-design
   title: Beautiful Girl
-  desc: "Design &amp; Development"
-- image: images/origin/home500_2.png
+  desc: "bride"
+- image: images/origin/home500_12.png
   class: web-design print
-  title: Look at me
-  desc: "Design &amp; Development"
-- image: images/origin/home700_1.png
+  title: Baptism
+  desc: "Sarah George Cheeran"
+- image: images/origin/home700_2.png
   class: brand wide
-  title: Am I cute
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
+  title: traditional
+  desc: "Beautiful bride"
+- image: images/origin/home500_6.png
   class: development
-  title: Umbrella
-  desc: "Design &amp; Development"
-- image: images/origin/home500_3.png
+  title: Am I perfect
+  desc: "Let's go"
+- image: images/origin/home500_700_3.png
   class: print brand
-  title: Canned Bros
-  desc: "Design &amp; Development"
-- image: images/origin/home500_3.png
+  title: Long live
+  desc: "white click"
+- image: images/origin/home500_7.png
   class: web-design
-  title: Hale
-  desc: "Design &amp; Development"
+  title: Freek
+  desc: "Yellow Green"
 - image: images/origin/home350_1.png
   class: web-design wide
   title: A beautiful day
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
+  desc: "together"
+- image: images/origin/home500_8.png
   class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
-- image: images/origin/home350_1.png
+  title: well taken
+  desc: "Black &amp; White"
+- image: images/origin/home350_2.png
   class: web-design wide
-  title: web-design wide
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
+  title: Back to oldies
+  desc: "outsation hill green"
+- image: images/origin/home500_700_1.png
   class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
-- image: images/origin/home500_3.png
+  title: shy away
+  desc: "Saree in Red"
+- image: images/origin/home500_9.png
   class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
+  title: Just clicked
+  desc: "Get ready"
+- image: images/origin/home500_10.png
   class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
+  title: Blessed
+  desc: "Guruvayoor Temple"
+- image: images/origin/home500_11.png
   class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
-  class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
-- image: images/origin/home500_1.png
-  class: graphic-design
-  title: Flower Book
-  desc: "Design &amp; Development"
+  title: Outdoor click
+  desc: "Instagram"
