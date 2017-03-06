@@ -44,7 +44,15 @@
 
   <body>
 
-    <div class='contain-to-grid fullwidth alt'>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=173156886077569";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class='contain-to-grid fullwidth alt'>
   <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
     <ul class='title-area'>
       <li class='name'>
@@ -407,31 +415,42 @@
 
     <div class='full no-padding' style='background: #111'>
   <div class='fullwidth' id='footer'>
-    <div class='three spacing'></div>
-    <p class='copyright'>©2017 Addiction Weddings. All rights reserved.</p>
-    <ul class='socials'>
-      <li>
-        <a href='https://www.facebook.com/addictionweddings/'>
-          <i class='fa fa-facebook'></i>
-        </a>
-      </li>
-      <li>
-        <a href=''>
-          <i class='fa fa-twitter'></i>
-        </a>
-      </li>
-    <!--  <li>
-        <a href='http://dribbble.com'>
-          <i class='fa fa-dribbble'></i>
-        </a>
-      </li>
-      <li>
-        <a href='http://tumblr.com'>
-          <i class='fa fa-tumblr'></i>
-        </a>
-      </li>-->
-    </ul>
     <div class='two spacing'></div>
+    <div class='row'>
+      <div class='large-4 small-12 columns'>
+        <div class="fb-page" data-href="https://www.facebook.com/addictionweddings/" data-tabs="timeline" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/addictionweddings/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/addictionweddings/">Addiction Weddings</a></blockquote></div>
+      </div>
+      <div class='large-6 small-12 columns'>
+          <p class='copyright'>©2017 Addiction Weddings. All rights reserved.</p>
+      </div>
+      <div class='large-2 small-12 columns'>
+        <ul class='socials'>
+          <li>
+            <a href='https://www.facebook.com/addictionweddings/'>
+              <i class='fa fa-facebook'></i>
+            </a>
+          </li>
+          <li>
+            <a href=''>
+              <i class='fa fa-twitter'></i>
+            </a>
+          </li>
+        <!--  <li>
+            <a href='http://dribbble.com'>
+              <i class='fa fa-dribbble'></i>
+            </a>
+          </li>
+          <li>
+            <a href='http://tumblr.com'>
+              <i class='fa fa-tumblr'></i>
+            </a>
+          </li>-->
+        </ul>
+      </div>
+
+    </div>
+
+      <div class='two spacing'></div>
   </div>
 </div>
 
