@@ -3026,13 +3026,14 @@ body {
   line-height: 0;
   font-size: 0;
   cursor: pointer;
-  background: transparent;
-  color: transparent;
+  /*background: transparent;
+  color: transparent;*/
   top: 50%;
   margin-top: -10px;
   padding: 0;
   border: none;
   outline: none;
+  background-color: #FF4089;
 }
 .slick-prev:hover, .slick-prev:focus,
 .slick-next:hover,
@@ -3040,6 +3041,7 @@ body {
   outline: none;
   background: transparent;
   color: transparent;
+  background-color: #FF4089;
 }
 .slick-prev:hover:before, .slick-prev:focus:before,
 .slick-next:hover:before,

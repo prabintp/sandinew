@@ -14,6 +14,10 @@
     - imageurl: images/origin/home500_3.png
 - title: Beautiful Girl
   desc: "Design &amp; Development"
+  videos:
+    - url: "https://www.youtube.com/embed/h4io7NWX4Qo?ecver=1"
+- title: Beautiful Girl
+  desc: "Design &amp; Development"
   images:
     - imageurl: images/origin/home500_4.png
 - title: Beautiful Girl
@@ -24,6 +28,10 @@
   desc: "Design &amp; Development"
   images:
     - imageurl: images/origin/home500_5.png
+- title: Nishanth Chandhini Wedding Highlights
+  desc: "Design &amp; Development"
+  videos:
+    - url: "https://www.youtube.com/embed/eFEx8DCONYI?ecver=1"
 - title: Beautiful Girl
   desc: "Design &amp; Development"
   images:
