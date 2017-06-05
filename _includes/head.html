@@ -9,8 +9,8 @@
   {% if page.image %}
   <meta property="og:image" content="{{site.url}}/{{ page.image }}"/>
   {% endif %}
-  {% if page.video %}
-  <meta property="og:video" content="{{ page.video }}"/>
+  {% if page.videoog %}
+  <meta property="og:video" content="{{ page.videoog }}"/>
   {% endif %}
 <meta property="og:site_name" content="addiction weddings"/>
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"/>
