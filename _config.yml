@@ -3,11 +3,12 @@ title: Addiction Weddings
 email: prabintp@gmail.com
 description: Addiction wedding is one of the best professional wedding photography team in kerala.
 
+#baseurl: "" # the subpath of your site, e.g. /blog/
 baseurl: "http://addictionweddings.com" # the subpath of your site, e.g. /blog/
 
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 
-logoImagePath: "../images/wedding-photography.png"
+logoImagePath: "images/wedding-photography.png"
 
 facebook_url: "https://www.facebook.com/addictionweddings/"
 twitter_url: ""
@@ -18,7 +19,7 @@ github_username:  jekyll
 markdown: kramdown
 
 
-paginate: 4
+paginate:
 paginate_path: "blog/page:num"
 
 google_analytics: UA-67692152-1

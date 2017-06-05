@@ -13,7 +13,7 @@
         <h1>
           <a href='index.html'>
             {% if site.logoImagePath %}
-            <image src="{{site.logoImagePath}}">
+            <image src="{{site.url}}/{{site.logoImagePath}}">
             {% else %}
             {{ site.title }}
             {% endif %}
