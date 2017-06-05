@@ -2,6 +2,7 @@
 layout: adnpost
 title:  wedding short filim - oru cinima udakiya kalyanam
 date:   2017-05-02 10:57:12
+image: images/addiction-short-filim.png
 video: https://www.youtube.com/embed/EQNQkjN3F_w?ecver=1
 excerpt: Short film കണ്ടിട്ടുണ്ടായിരിക്കാം wedding highlight video യും കണ്ടിട്ടുണ്ടായിരിക്കാം.എന്നാൽ ഇത് രണ്ടും ഒരുമിച്ചായാലോ
 categories: Short Filim
