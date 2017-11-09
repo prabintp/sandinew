@@ -71,6 +71,9 @@ hr {
 .parallax {
   background-attachment: fixed;
 }
+.pd-tp-30{
+  padding-top: 30px;
+}
 
 ul.shortcode-list {
   list-style: none;
