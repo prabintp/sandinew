@@ -1,6 +1,12 @@
 ---
 layout: default
 section_id: home
+videos:
+  - https://www.youtube.com/embed/2C05XgARgFI?ecver=1
+  - https://www.youtube.com/embed/hYxblC7U8ho?ecver=1
+  - https://www.youtube.com/embed/tfjG_9u7wXY?ecver=1
+  - https://www.youtube.com/embed/3eGKwpNWo_w?ecver=1
+  - https://www.youtube.com/embed/daEyFzfF8pk?ecver=1
 ---
 <div class='mod modMasonryGallery'>
   <ul class='gallery'>
@@ -18,4 +24,19 @@ section_id: home
       </li>
     {% endfor %}
   </ul>
+</div>
+
+<div class='row'>
+  <div class='large-12 columns'>
+    <div class='mod modBoxedSlider'>
+      <div class='slides'>
+        {% for image in page.videos %}
+          <div class='slide'>
+          <!--  <img alt="" src="{{image}}" /> -->
+            <iframe width="100%" height="500px"  src="{{image}}" frameborder="0" allowfullscreen></iframe>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>
