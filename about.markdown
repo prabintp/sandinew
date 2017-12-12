@@ -116,7 +116,7 @@ layout: default
       <div class='spacing'></div>
     </div>
   </div>
-  <div class='row'>
+ <!-- <div class='row'>
     {% for member in page.members %}
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember style-2'>
@@ -142,9 +142,9 @@ layout: default
       </div>
     {% endfor %}
   </div>
-  <div class='two spacing'></div>
+  <div class='two spacing'></div> -->
 </div>
-<div class='full'>
+<!-- <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
       <h3>Our clients</h3>
@@ -159,4 +159,4 @@ layout: default
     </div>
   </div>
   <div class='four spacing'></div>
-</div>
+</div> -->
