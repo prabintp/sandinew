@@ -1,8 +1,8 @@
 ---
-layout: default
+title: about
 section_id: about
 about_desc:
-- desc1: we want to tell your wedding story through compelling images that will blow
+- item: we want to tell your wedding story through compelling images that will blow
     your mind. We don't want to just give you photos, we want to give you works of
     art that transcend wedding photography, that communicates the essence of who you
     are, that tell stories beyond what you see.
@@ -67,6 +67,7 @@ clients:
 - images/@stock/client-grey-4.png
 - images/@stock/client-grey-5.png
 - images/@stock/client-grey-6.png
+layout: default
 ---
 
 <div class='full' style='background: #333'>
@@ -82,7 +83,9 @@ clients:
     <div class='large-12 columns'>
       <h3>what We are</h3>
       <div class='spacing'></div>
-      <p>we want to tell your wedding story through compelling images that will blow your mind. We don't want to just give you photos, we want to give you works of art that transcend wedding photography, that communicates the essence of who you are, that tell stories beyond what you see.</p>
+      {% for desc in page.about_desc %}
+         <p>{{desc.item}}</p>
+       {% endfor %}
       <p>Shooting weddings with a little twist of Fashion and drama gives a couple something unique to cherish</p>
       <div class='two spacing'></div>
     </div>
