@@ -1,12 +1,16 @@
 ---
+title: A cup of coffee for you
+date: 2015-05-01 10:57:12 Z
+categories:
+- Design
+tags:
+- design
+- business
 layout: post
-title:  A cup of coffee for you
-date:   2015-05-01 10:57:12
 image: images/@stock/blog-2.jpg
-excerpt:
-  Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
-categories: Design
-tags: design business
+excerpt: Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo
+  in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem
+  eligendi rerum et quo ut. fuga qui ea voluptates sunt
 author: honryou
 ---
 

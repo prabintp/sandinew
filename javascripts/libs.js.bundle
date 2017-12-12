@@ -1,5 +1,4 @@
 ---
-# The front matter is required, even it's empty
 ---
 
 @import "modernizr.foundation.js"

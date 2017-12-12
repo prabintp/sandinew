@@ -1,16 +1,17 @@
 ---
-layout: post
-title:  Look what we've done
-date:   2015-03-20 10:57:12
-image: images/@stock/blog-9.jpg
-excerpt:
-  Nisi quas minima cumque et voluptate. et et iure nostrum necessitatibus et ipsam sed doloribus ab odio. voluptates velit et quaerat qui
+title: Look what we've done
+date: 2015-03-20 10:57:12 Z
 categories:
-  - Web Design
-tags: logo development
+- Web Design
+tags:
+- logo
+- development
+layout: post
+image: images/@stock/blog-9.jpg
+excerpt: Nisi quas minima cumque et voluptate. et et iure nostrum necessitatibus et
+  ipsam sed doloribus ab odio. voluptates velit et quaerat qui
 author: honryou
 ---
-
 
 Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
 

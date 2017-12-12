@@ -1,12 +1,16 @@
 ---
+title: my desk
+date: 2015-03-28 10:57:12 Z
+categories:
+- Design
+tags:
+- design
+- business
 layout: post
-title:  my desk
-date:   2015-03-28 10:57:12
 image: images/@stock/blog-5.jpg
-excerpt:
-  Dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
-categories: Design
-tags: design business
+excerpt: Dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus
+  aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo
+  ut. fuga qui ea voluptates sunt
 author: honryou
 ---
 

@@ -1,12 +1,15 @@
 ---
+title: tom is designing the new site
+date: 2015-03-31 10:57:12 Z
+categories:
+- Bussiness
+tags:
+- design
+- business
 layout: post
-title:  tom is designing the new site
-date:   2015-03-31 10:57:12
 image: images/@stock/blog-1.jpg
-excerpt:
-  lste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel.
-categories: Bussiness
-tags: design business
+excerpt: lste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo
+  in rerum ducimus possimus aspernatur quas est. dolorem eaque vel.
 author: honryou
 ---
 

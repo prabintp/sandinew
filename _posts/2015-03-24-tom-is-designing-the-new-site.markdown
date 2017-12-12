@@ -1,13 +1,14 @@
 ---
-layout: post
-title:  tom is designing the new site
-date:   2015-03-24 10:57:12
-image: images/@stock/blog-6.jpg
-excerpt:
-  lste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel.
+title: tom is designing the new site
+date: 2015-03-24 10:57:12 Z
 categories:
-  - Logo Design
-tags: javascript
+- Logo Design
+tags:
+- javascript
+layout: post
+image: images/@stock/blog-6.jpg
+excerpt: lste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo
+  in rerum ducimus possimus aspernatur quas est. dolorem eaque vel.
 author: honryou
 ---
 

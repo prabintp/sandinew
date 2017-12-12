@@ -1,15 +1,17 @@
 ---
+title: Look what we've done
+date: 2015-03-27 10:57:12 Z
+categories:
+- Bussiness
+tags:
+- design
+- business
 layout: post
-title:  Look what we've done
-date:   2015-03-27 10:57:12
 image: images/@stock/blog-4.jpg
-excerpt:
-  Nisi quas minima cumque et voluptate. et et iure nostrum necessitatibus et ipsam sed doloribus ab odio. voluptates velit et quaerat qui
-categories: Bussiness
-tags: design business
+excerpt: Nisi quas minima cumque et voluptate. et et iure nostrum necessitatibus et
+  ipsam sed doloribus ab odio. voluptates velit et quaerat qui
 author: honryou
 ---
-
 
 Et sed ut quo maiores praesentium consequatur ipsum fuga aliquid corporis vel. exercitationem saepe vel aut consectetur vitae sed. necessitatibus est voluptatem nihil officiis nam debitis et perferendis exercitationem animi qui impedit modi recusandae. sapiente molestiae excepturi maxime. eum sequi nisi et itaque sunt nesciunt nulla vel sit ratione animi
 

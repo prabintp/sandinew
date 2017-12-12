@@ -1,12 +1,17 @@
 ---
+title: a post without image
+date: 2015-03-30 10:57:12 Z
+categories:
+- Design
+tags:
+- design
+- business
 layout: post
-title:  a post without image
-date:   2015-03-30 10:57:12
-image:
-excerpt:
-  Laboriosam labore recusandae voluptas autem incidunt. voluptatem voluptatem tenetur ab doloribus quos voluptate culpa et voluptatem. ipsa voluptatem dicta magnam eaque. asperiores qui incidunt praesentium et eaque quisquam tempore ut non non repellendus aut est atque
-categories: Design
-tags: design business
+image: 
+excerpt: Laboriosam labore recusandae voluptas autem incidunt. voluptatem voluptatem
+  tenetur ab doloribus quos voluptate culpa et voluptatem. ipsa voluptatem dicta magnam
+  eaque. asperiores qui incidunt praesentium et eaque quisquam tempore ut non non
+  repellendus aut est atque
 author: honryou
 ---
 
