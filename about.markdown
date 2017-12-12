@@ -89,7 +89,7 @@ layout: default
       <p>Shooting weddings with a little twist of Fashion and drama gives a couple something unique to cherish</p>
       <div class='two spacing'></div>
     </div>
-    <div class='large-12 columns'>
+   <!-- <div class='large-6 columns'>
       <h3>We Provide</h3>
       <div class='spacing'></div>
       <div class='mod modBarGraph'>
@@ -98,25 +98,25 @@ layout: default
             <li>
               <h4 style=''>
                 
-                <!--<strong>{{skill.percent}}%</strong>-->
+                <strong>{{skill.percent}}%</strong>
               </h4>
-              <p class='highlighted' style="height:auto" data-percent='{{skill.percent}}'>{{skill.title}}</p>
+              <p class='highlighted' data-percent='{{skill.percent}}'>{{skill.title}}</p>
             </li>
           {% endfor %}
         </ul>
       </div>
     </div>
   </div>
-</div>
+</div> -->
 <div class='two spacing'></div>
-<div class='full' style='background: #f5f5f5'>
+<!--<div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
       <h3>The team</h3>
       <div class='spacing'></div>
     </div>
   </div>
- <!-- <div class='row'>
+  <div class='row'>
     {% for member in page.members %}
       <div class='small-6 medium-3 large-3 columns'>
         <div class='mod modTeamMember style-2'>
@@ -142,9 +142,9 @@ layout: default
       </div>
     {% endfor %}
   </div>
-  <div class='two spacing'></div> -->
+  <div class='two spacing'></div>
 </div>
-<!-- <div class='full'>
+ <div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
       <h3>Our clients</h3>
