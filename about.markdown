@@ -1,6 +1,8 @@
 ---
 layout: default
 section_id: about
+about_desc:
+- desc1: we want to tell your wedding story through compelling images that will blow your mind. We don't want to just give you photos, we want to give you works of art that transcend wedding photography, that communicates the essence of who you are, that tell stories beyond what you see.
 skills:
 - title: Web Design
   percent: 84
