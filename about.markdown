@@ -109,7 +109,7 @@ layout: default
   </div>
 </div>
 <div class='two spacing'></div>
-<!--<div class='full' style='background: #f5f5f5'>
+<div class='full' style='background: #f5f5f5'>
   <div class='row'>
     <div class='large-12 columns'>
       <h3>The team</h3>
@@ -143,8 +143,8 @@ layout: default
     {% endfor %}
   </div>
   <div class='two spacing'></div>
-</div> -->
-<!--<div class='full'>
+</div>
+<div class='full'>
   <div class='row'>
     <div class='large-12 columns'>
       <h3>Our clients</h3>
@@ -159,4 +159,4 @@ layout: default
     </div>
   </div>
   <div class='four spacing'></div>
-</div> -->
+</div>
