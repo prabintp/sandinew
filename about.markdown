@@ -7,14 +7,14 @@ about_desc:
     art that transcend wedding photography, that communicates the essence of who you
     are, that tell stories beyond what you see...
 skills:
-- title: Web Design
-  percent: 84
-- title: Web Development
-  percent: 95
-- title: Site Management
-  percent: 70
-- title: Branding
-  percent: 61
+- title: Candid & portrait photogrphy
+  percent: 100
+- title: Traditional wedding  photography
+  percent: 100
+- title: Albums and Framing
+  percent: 100
+- title: Branding and cenimatography
+  percent: 100
 members:
 - name: Mark Wayne
   position: founder
@@ -90,7 +90,7 @@ layout: default
       <div class='two spacing'></div>
     </div>
     <div class='medium-6 columns'>
-      <h3>Our skills</h3>
+      <h3>We Provide</h3>
       <div class='spacing'></div>
       <div class='mod modBarGraph'>
         <ul class='bars'>
