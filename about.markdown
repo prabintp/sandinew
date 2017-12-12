@@ -100,7 +100,7 @@ layout: default
                 {{skill.title}}
                 <strong>{{skill.percent}}%</strong>
               </h4>
-              <p class='highlighted' data-percent='{{skill.percent}}'>{{skill.title}}</p>
+              <p class='highlighted' style="height:auto" data-percent='{{skill.percent}}'>{{skill.title}}</p>
             </li>
           {% endfor %}
         </ul>
