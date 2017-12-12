@@ -97,8 +97,8 @@ layout: default
           {% for skill in page.skills %}
             <li>
               <h4 style=''>
-                {{skill.title}}
-                <strong>{{skill.percent}}%</strong>
+                
+                <!--<strong>{{skill.percent}}%</strong>-->
               </h4>
               <p class='highlighted' style="height:auto" data-percent='{{skill.percent}}'>{{skill.title}}</p>
             </li>
