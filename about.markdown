@@ -89,7 +89,7 @@ layout: default
       <p>Shooting weddings with a little twist of Fashion and drama gives a couple something unique to cherish</p>
       <div class='two spacing'></div>
     </div>
-  <!--  <div class='medium-6 columns'>
+    <div class='medium-6 columns'>
       <h3>Our skills</h3>
       <div class='spacing'></div>
       <div class='mod modBarGraph'>
@@ -105,7 +105,7 @@ layout: default
           {% endfor %}
         </ul>
       </div>
-    </div> -->
+    </div>
   </div>
 </div>
 <div class='two spacing'></div>
